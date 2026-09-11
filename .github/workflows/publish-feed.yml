@@ -3,6 +3,14 @@ name: Publish release feed
 on:
   repository_dispatch:
     types: [component-release]
+  push:
+    branches: [main]
+    paths:
+      - "components/**"
+      - "schema/**"
+      - "scripts/**"
+      - "tests/**"
+      - "requirements-dev.txt"
   pull_request:
     paths:
       - "schema/**"
