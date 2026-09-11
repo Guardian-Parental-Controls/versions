@@ -1,0 +1,12 @@
+{
+  "artifacts": [
+    {
+      "id": "container",
+      "url": "ghcr.io/guardian-parental-controls/platform-server:v1.0.0"
+    }
+  ],
+  "minimum_supported_version": "1.0.0",
+  "protocol_version": 1,
+  "repository": "https://github.com/Guardian-Parental-Controls/platform",
+  "version": "1.0.0"
+}

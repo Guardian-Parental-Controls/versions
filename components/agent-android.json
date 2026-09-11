@@ -1,0 +1,13 @@
+{
+  "artifacts": [
+    {
+      "id": "android-apk",
+      "url": "https://github.com/Guardian-Parental-Controls/agent-android/releases/download/v1.0.0/guardian-android-agent-v1.0.0.apk"
+    }
+  ],
+  "min_server": "1.0.0",
+  "minimum_supported_version": "1.0.0",
+  "protocol_version": 1,
+  "repository": "https://github.com/Guardian-Parental-Controls/agent-android",
+  "version": "1.0.0"
+}

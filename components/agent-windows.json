@@ -1,0 +1,14 @@
+{
+  "artifacts": [
+    {
+      "checksum_url": "https://github.com/Guardian-Parental-Controls/agent-windows/releases/download/v1.0.0/guardian-agent-x86_64-pc-windows-msvc.msi.sha256",
+      "id": "windows-x86_64",
+      "url": "https://github.com/Guardian-Parental-Controls/agent-windows/releases/download/v1.0.0/guardian-agent-x86_64-pc-windows-msvc.msi"
+    }
+  ],
+  "min_server": "1.0.0",
+  "minimum_supported_version": "1.0.0",
+  "protocol_version": 1,
+  "repository": "https://github.com/Guardian-Parental-Controls/agent-windows",
+  "version": "1.0.0"
+}
