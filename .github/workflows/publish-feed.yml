@@ -11,6 +11,7 @@ on:
       - "scripts/**"
       - "tests/**"
       - "requirements-dev.txt"
+      - ".github/workflows/publish-feed.yml"
   pull_request:
     paths:
       - "schema/**"
